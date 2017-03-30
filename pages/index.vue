@@ -12,6 +12,10 @@
         </nuxt-link>
       </li>
     </ul>
+
+     <nuxt-link class="button" :to="{ name: 'transactionalservices-category-subCategory-name', params: { category: 'dfe', subCategory:'rateit', name:'online-app' }}">
+      Rate it
+    </nuxt-link>
   </section>
 </template>
 
