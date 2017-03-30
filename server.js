@@ -23,17 +23,17 @@ if (typeof options.rootDir !== 'string') {
 options.dev = false // Force production mode (no webpack middleware called)
 
 var nuxt = new Nuxt(options)
-
+nuxtConfigFile.dev = false;
 app.use(nuxt.render)
 
 // Build only in dev mode
-if (nuxtConfigFile.dev) {
-  nuxt.build()
-  .catch((error) => {
-    console.error(error) // eslint-disable-line no-console
-    process.exit(1)
-  })
-}
+//if (nuxtConfigFile.dev) {
+// nuxt.build()
+ // .catch((error) => {
+ //   console.error(error) // eslint-disable-line no-console
+ //   process.exit(1)
+ // })
+//}
 
 // Listen the server
 app.listen(port, host)
