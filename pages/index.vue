@@ -20,7 +20,7 @@ import axios from '~plugins/axios'
 
 export default {
   async asyncData () {
-    let { data } = await axios.get('/api/users')
+    let { data } = await axios.get('http://shaynuxtexpress.azurewebsites.net/api/users')
     return {
       users: data
     }
