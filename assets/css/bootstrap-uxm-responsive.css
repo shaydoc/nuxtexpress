@@ -1,0 +1,32 @@
+﻿@media (max-width: 992px) {
+
+    .loginform fieldset#login {
+        border-right-color: -moz-use-text-color;
+        border-right-style: none;
+        border-right-width: 0;
+        width: 100%;
+    }
+
+    .loginform fieldset#register {
+        margin-top: 1em;
+    }
+
+    .service-name-uxm {
+        font-size: 27px;
+        padding-bottom: 18px;
+        padding-top: 18px;
+    }
+}
+
+@media (max-width: 767px) {
+
+    .loginform fieldset {
+        width: 100%;
+    }
+
+        .loginform fieldset#login {
+            margin-right: 0;
+            padding-right: 0;
+        }
+
+}

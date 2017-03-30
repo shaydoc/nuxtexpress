@@ -1,0 +1,6 @@
+{ Error: EPERM: operation not permitted, mkdir 'C:\Users\seamusd\Documents\Visual Studio Code\nuxt-demo\shay-nuxt-express\.nuxt\components'
+    at Error (native)
+  errno: -4048,
+  code: 'EPERM',
+  syscall: 'mkdir',
+  path: 'C:\\Users\\seamusd\\Documents\\Visual Studio Code\\nuxt-demo\\shay-nuxt-express\\.nuxt\\components' }

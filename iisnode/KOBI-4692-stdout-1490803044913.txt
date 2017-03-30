@@ -1,0 +1,6 @@
+Server listening on 127.0.0.1:\\.\pipe\658094fa-0777-41e6-b475-6195d1fda930
+/__webpack_hmr
+ DONE  Compiled successfully in 6576ms4:57:33 PM
+
+> Open http://127.0.0.1:\\.\pipe\658094fa-0777-41e6-b475-6195d1fda930
+

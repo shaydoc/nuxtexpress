@@ -1,0 +1,48 @@
+Server listening on 127.0.0.1:\\.\pipe\53f94a95-e244-4895-9174-708343f9765e
+in the nuxt code
+ DONE  Compiled successfully in 6432ms4:26:03 PM
+
+> Open http://127.0.0.1:\\.\pipe\53f94a95-e244-4895-9174-708343f9765e
+
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/',
+  path: '/',
+  href: '/',
+  _raw: '/' }
+in the nuxt code
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/pipe/53f94a95-e244-4895-9174-708343f9765e/api/users',
+  path: '/pipe/53f94a95-e244-4895-9174-708343f9765e/api/users',
+  href: '/pipe/53f94a95-e244-4895-9174-708343f9765e/api/users',
+  _raw: '/pipe/53f94a95-e244-4895-9174-708343f9765e/api/users' }
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+ DONE  Compiled successfully in 240ms4:26:22 PM
+
+> Open http://127.0.0.1:\\.\pipe\53f94a95-e244-4895-9174-708343f9765e
+

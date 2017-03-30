@@ -1,0 +1,99 @@
+Server listening on 127.0.0.1:\\.\pipe\cb87f8fa-5c8a-4862-94da-8eddd87aee54
+in the nuxt code
+ DONE  Compiled successfully in 13814ms4:16:14 PM
+
+> Open http://127.0.0.1:\\.\pipe\cb87f8fa-5c8a-4862-94da-8eddd87aee54
+
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/',
+  path: '/',
+  href: '/',
+  _raw: '/' }
+in the nuxt code
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/pipe/cb87f8fa-5c8a-4862-94da-8eddd87aee54/api/users',
+  path: '/pipe/cb87f8fa-5c8a-4862-94da-8eddd87aee54/api/users',
+  href: '/pipe/cb87f8fa-5c8a-4862-94da-8eddd87aee54/api/users',
+  _raw: '/pipe/cb87f8fa-5c8a-4862-94da-8eddd87aee54/api/users' }
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/server.prod.js/debug',
+  path: '/server.prod.js/debug',
+  href: '/server.prod.js/debug',
+  _raw: '/server.prod.js/debug' }
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/server.js/debug',
+  path: '/server.js/debug',
+  href: '/server.js/debug',
+  _raw: '/server.js/debug' }
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+ DONE  Compiled successfully in 476ms4:21:28 PM
+
+> Open http://127.0.0.1:\\.\pipe\cb87f8fa-5c8a-4862-94da-8eddd87aee54
+
+ WAIT  Compiling...4:22:18 PM
+
+ DONE  Compiled successfully in 318ms4:22:19 PM
+
+> Open http://127.0.0.1:\\.\pipe\cb87f8fa-5c8a-4862-94da-8eddd87aee54
+

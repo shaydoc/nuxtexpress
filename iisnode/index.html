@@ -1,0 +1,87 @@
+<html>
+<head>
+    <title>iisnode logs</title>
+    <style type="text/css">
+        body
+        {
+            font-family: "Trebuchet MS" , Arial, Helvetica, sans-serif;
+        }
+        table
+        {
+            border-collapse: collapse;
+        }
+        td, th
+        {
+            border: 1px solid lightgray;
+            padding: 3px 7px 2px 7px;
+        }
+        th
+        {
+            text-align: left;
+            padding-top: 5px;
+            padding-bottom: 4px;
+            background-color: Gray;
+            color: #ffffff;
+        }
+        td.stderr
+        {
+            color: Red;
+        }
+    </style>
+</head>
+<body>
+    <table id="logFilesTable">
+        <tr>
+            <th>
+                Computer name
+            </th>
+            <th>
+                PID
+            </th>
+            <th>
+                Type
+            </th>
+            <th>
+                Created
+            </th>
+            <th>
+                Link
+            </th>
+        </tr>
+    </table>
+    <p id="lastUpdated"></p>
+    <script type="text/javascript">
+
+        // this is replaced with actual data at runtime by code in interceptor.js
+        var logFiles = [{"file":"KOBI-10484-stderr-1490801120060.txt","computername":"KOBI","pid":10484,"type":"stderr","created":1490801120060},{"file":"KOBI-10484-stdout-1490801120053.txt","computername":"KOBI","pid":10484,"type":"stdout","created":1490801120053},{"file":"KOBI-10488-stderr-1490800936820.txt","computername":"KOBI","pid":10488,"type":"stderr","created":1490800936820},{"file":"KOBI-10488-stdout-1490800936815.txt","computername":"KOBI","pid":10488,"type":"stdout","created":1490800936815},{"file":"KOBI-11072-stderr-1490801270347.txt","computername":"KOBI","pid":11072,"type":"stderr","created":1490801270347},{"file":"KOBI-11072-stdout-1490801270342.txt","computername":"KOBI","pid":11072,"type":"stdout","created":1490801270342},{"file":"KOBI-11948-stdout-1490800555697.txt","computername":"KOBI","pid":11948,"type":"stdout","created":1490800555697},{"file":"KOBI-12112-stdout-1490801179826.txt","computername":"KOBI","pid":12112,"type":"stdout","created":1490801179826},{"file":"KOBI-15232-stdout-1490802771902.txt","computername":"KOBI","pid":15232,"type":"stdout","created":1490802771902},{"file":"KOBI-17348-stderr-1490801912815.txt","computername":"KOBI","pid":17348,"type":"stderr","created":1490801912815},{"file":"KOBI-17348-stdout-1490801912809.txt","computername":"KOBI","pid":17348,"type":"stdout","created":1490801912809},{"file":"KOBI-17648-stdout-1490800885412.txt","computername":"KOBI","pid":17648,"type":"stdout","created":1490800885412},{"file":"KOBI-2040-stderr-1490801154667.txt","computername":"KOBI","pid":2040,"type":"stderr","created":1490801154667},{"file":"KOBI-2040-stdout-1490801154659.txt","computername":"KOBI","pid":2040,"type":"stdout","created":1490801154659},{"file":"KOBI-268-stdout-1490801091497.txt","computername":"KOBI","pid":268,"type":"stdout","created":1490801091497},{"file":"KOBI-4692-stdout-1490803044913.txt","computername":"KOBI","pid":4692,"type":"stdout","created":1490803044913},{"file":"KOBI-5928-stderr-1490801211704.txt","computername":"KOBI","pid":5928,"type":"stderr","created":1490801211704},{"file":"KOBI-5928-stdout-1490801211698.txt","computername":"KOBI","pid":5928,"type":"stdout","created":1490801211698},{"file":"KOBI-7656-stderr-1490801020626.txt","computername":"KOBI","pid":7656,"type":"stderr","created":1490801020626},{"file":"KOBI-7656-stdout-1490801020620.txt","computername":"KOBI","pid":7656,"type":"stdout","created":1490801020620},{"file":"KOBI-9980-stdout-1490801252990.txt","computername":"KOBI","pid":9980,"type":"stdout","created":1490801252990}];
+        var lastUpdated = 1490803046980;
+        var date = new Date();
+
+        date.setTime(lastUpdated);
+        document.getElementById('lastUpdated').innerHTML = 'Index was last updated ' + date;
+
+        logFiles.sort(function (a, b) {
+            return b.created - a.created;
+        });
+
+        var logFilesTable = document.getElementById("logFilesTable");
+        for (var i = 0; i < logFiles.length; i++) {
+            var logFile = logFiles[i];
+            date.setTime(logFile.created);
+            var row = logFilesTable.insertRow(-1);
+            var computerNameCell = row.insertCell(0);
+            var pidCell = row.insertCell(1);
+            var typeCell = row.insertCell(2);
+            var dateCell = row.insertCell(3);
+            var logCell = row.insertCell(4);
+            computerNameCell.innerHTML = logFile.computername;
+            pidCell.innerHTML = logFile.pid.toString();
+            typeCell.innerHTML = logFile.type;
+            typeCell.setAttribute('class', logFile.type);
+            dateCell.innerHTML = date.toString();
+            logCell.innerHTML = '<a href="' + logFile.file + '">log</a>';
+        };
+
+    </script>
+</body>
+</html>

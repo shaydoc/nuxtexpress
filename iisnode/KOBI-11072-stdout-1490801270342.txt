@@ -1,0 +1,204 @@
+Server listening on 127.0.0.1:\\.\pipe\deeff13d-631f-490a-8afe-5e73b169f46c
+in the nuxt code
+in the nuxt code
+ DONE  Compiled successfully in 7045ms4:27:59 PM
+
+> Open http://127.0.0.1:\\.\pipe\deeff13d-631f-490a-8afe-5e73b169f46c
+
+in the nuxt code
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/',
+  path: '/',
+  href: '/',
+  _raw: '/' }
+in the nuxt code
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  path: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  href: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  _raw: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users' }
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/',
+  path: '/',
+  href: '/',
+  _raw: '/' }
+in the nuxt code
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  path: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  href: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  _raw: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users' }
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/',
+  path: '/',
+  href: '/',
+  _raw: '/' }
+in the nuxt code
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  path: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  href: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  _raw: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users' }
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/',
+  path: '/',
+  href: '/',
+  _raw: '/' }
+in the nuxt code
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  path: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  href: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  _raw: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users' }
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/',
+  path: '/',
+  href: '/',
+  _raw: '/' }
+in the nuxt code
+Url {
+  protocol: null,
+  slashes: null,
+  auth: null,
+  host: null,
+  port: null,
+  hostname: null,
+  hash: null,
+  search: null,
+  query: null,
+  pathname: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  path: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  href: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users',
+  _raw: '/pipe/deeff13d-631f-490a-8afe-5e73b169f46c/api/users' }
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
+in the nuxt code
