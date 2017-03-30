@@ -33,7 +33,7 @@ app.use(nuxt.render)
  //   console.error(error) // eslint-disable-line no-console
  //   process.exit(1)
  // })
-//}
+//}//
 
 // Listen the server
 app.listen(port, host)
