@@ -1,2 +1,0 @@
-Server listening on 127.0.0.1:\\.\pipe\f6bd5445-a850-44c7-8af5-cc7581ef67e3
-in the nuxt code

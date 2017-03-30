@@ -1,1 +1,0 @@
-Server listening on 127.0.0.1:\\.\pipe\1c9b0c4f-3b3b-4220-b806-ed206daa4674
