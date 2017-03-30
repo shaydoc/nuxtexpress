@@ -9,9 +9,9 @@
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand" href="#">
-                         
-                    </a>
+                   <a class="navbar-brand" href="#">
+                    <img src="../assets/images/nidirectv2-logo.png" alt="n i direct government services">
+                </a>
                 </div>
                 <div class="navbar-collapse" id="navbar">
                     
