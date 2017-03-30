@@ -1,5 +1,0 @@
-Server listening on 127.0.0.1:\\.\pipe\9da100da-b5da-47ca-a9f6-5b7f3d0b0a26
- DONE  Compiled successfully in 6947ms4:21:34 PM
-
-> Open http://127.0.0.1:\\.\pipe\9da100da-b5da-47ca-a9f6-5b7f3d0b0a26
-
