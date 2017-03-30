@@ -20,7 +20,7 @@
         </nav>
         <div class="jumbotron service-name-uxm">
             <div class="container">
-                Rate it
+                Test it
             </div>
         </div>
     <nuxt/>             
