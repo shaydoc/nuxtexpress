@@ -1,9 +1,9 @@
 var fs = require('fs')
 var Nuxt = require('nuxt')
 var resolve = require('path').resolve
-const app = require('express')()
-const host = process.env.HOST || '127.0.0.1'
-const port = process.env.PORT || 3000
+var app = require('express')()
+var host = process.env.HOST || '127.0.0.1'
+var port = process.env.PORT || 3000
 
 app.set('port', port)
 // Import API Routes
